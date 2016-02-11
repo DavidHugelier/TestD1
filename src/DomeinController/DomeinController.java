@@ -8,5 +8,5 @@ package DomeinController;
 
 public class DomeinController 
 {
-    private String test;
+    private String test123;
 }
